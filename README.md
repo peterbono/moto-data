@@ -5,14 +5,42 @@ Dataset of motorcycles specifications for ResaMoto application.
 ## Structure
 
 Each JSON file contains motorcycle specifications for a specific manufacturer:
-- BMW
-- Ducati
-- Honda 
-- Kawasaki 
-- KTM 
-- Suzuki 
-- Triumph 
-- Yamaha 
+	•	Aprilia
+	•	Askoll
+	•	Benelli
+	•	Beta
+	•	BMW
+	•	Daelim
+	•	Ducati
+	•	Eccity
+	•	Govecs
+	•	Harley-Davidson
+	•	Honda
+	•	Horwin
+	•	Italjet
+	•	Kawasaki
+	•	Keeway
+	•	KTM
+	•	Kymco
+	•	Lifan
+	•	Malaguti
+	•	MBK
+	•	Niu
+	•	Orcal
+	•	Peugeot
+	•	Piaggio
+	•	Rieju
+	•	Silence
+	•	Super Soco
+	•	Suzuki
+	•	Sym
+	•	TGB
+	•	Triumph
+	•	Vespa
+	•	Voge
+	•	Yadea
+	•	Yamaha
+	•	Zontes
 
 ## Usage
 
