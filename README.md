@@ -7,12 +7,12 @@ Dataset of motorcycles specifications for ResaMoto application.
 Each JSON file contains motorcycle specifications for a specific manufacturer:
 - BMW
 - Ducati
-- Honda (coming soon)
-- Kawasaki (coming soon)
-- KTM (coming soon)
-- Suzuki (coming soon)
-- Triumph (coming soon)
-- Yamaha (coming soon)
+- Honda 
+- Kawasaki 
+- KTM 
+- Suzuki 
+- Triumph 
+- Yamaha 
 
 ## Usage
 
